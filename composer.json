@@ -1,6 +1,6 @@
 {
-    "name": "tigr/laravel-compact-encrypter",
-    "description": "Encrypter for Laravel that produces much shorter output",
+    "name": "tigr/compact-encrypter",
+    "description": "Data encrypter producing compact and URL-safe output",
     "type": "library",
     "license": "MIT",
     "authors": [
